@@ -1,0 +1,37 @@
+#TylenolTEXT
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    
+}
+
+body{
+   background-image: linear-gradient(to right top, rgb(9, 153, 197), rgba(100, 119, 179, 0.825), rgb(119, 89, 190), #6670)
+}
+
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    border: brown;
+}
+
+#captions
+{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#firstquestion
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+}
+
+#firstanswer
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+
